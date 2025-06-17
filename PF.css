@@ -48,7 +48,7 @@ body {
 /* INTRO / HERO SECTION */
 .second {
   padding: 100px 20px 60px;
-  background: url('/home/user/treasuremap.jpg') no-repeat center center fixed;
+  background: url('treasuremap.jpg') no-repeat center center fixed;
   background-size: cover;
   color: #4e342e;
   display: flex;
@@ -65,7 +65,7 @@ body {
   position: absolute;
   width: 300px;
   height: 300px;
-  background: url('/home/user/compass.jpeg') no-repeat center/contain;
+  background: url('compass.jpeg') no-repeat center/contain;
   top: -40px;
   left: -40px;
   opacity: 0.09;
